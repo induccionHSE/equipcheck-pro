@@ -71,5 +71,5 @@ La inspección de equipos en operaciones industriales suele gestionarse con list
 ## Autor
 
 **Holman Moreno** — HSEQ Coordinator · Petroleum Engineer  
-📧 hmoreno@pbi.com.co  
+📧 holman3001@gmail.com  
 🔗 [github.com/induccionhse](https://github.com/induccionhse)
